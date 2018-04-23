@@ -1,0 +1,10 @@
+{
+	"apps": [
+		{
+			"name": "api-onebible.in-local",
+			"script": "./server.js",
+			"watch": false,
+			"max_restarts": 10
+		}
+	]
+}
