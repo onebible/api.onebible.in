@@ -17,4 +17,4 @@ Once that is done, start the server by
 
 ## Clients
 
-* [Tamil bible](https://play.google.com/store/apps/details?id=co.sridhar.tamilbible.full), android app is available in the play store. 
+* [OneBible](https://play.google.com/store/apps/details?id=co.sridhar.tamilbible.full), android app is available in the play store. 
